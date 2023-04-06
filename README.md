@@ -4,7 +4,7 @@ The new and Improved CursedBots Forums! With user account systems and authentica
 
 # badges 
 
-
+<img alt="GitHub" src="https://img.shields.io/github/license/PixelatedPurple/CursedBots-Forums">  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/PixelatedPurple/CursedBots-Forums">  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/PixelatedPurple/CursedBots-Forums">  <img alt="PHP version from Travis config" src="https://img.shields.io/travis/php-v/PixelatedPurple/CursedBots-Forums/master">
 
 # License 
 
